@@ -1,6 +1,6 @@
 
 
-##ResilienceNWT_2026
+## ResilienceNWT_2026
 This repository contains the R scripts and derived outputs supporting the manuscript entitled 
 *Northern landbird communities show geographically constrained resilience to projected 
 climate and forest changes*. 
